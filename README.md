@@ -6,7 +6,19 @@ Guía completa para instalar y configurar OWASP ZAP
 
 -> Una vez descargado el archivo, abriremos **Terminal**
 ```bash
-sudo su
+sudo su```
+
+-> Iremos al donde esté el archivo descargado
+```bash
+cd Downloads ```
+
+-> Le daremos permiso de ejecutable al archivo
+```bash
+chmod +x ZAP_2_14_0_unix.sh ```
+
+-> Ejecutamos archivo
+./ZAP_2_1$_0_unix.sh
+
 
 
 

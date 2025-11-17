@@ -20,7 +20,7 @@ chmod +x ZAP_2_14_0_unix.sh
 ```bash
 ./ZAP_2_1$_0_unix.sh
 ```
-
+**Saldrá una guía de instalación, seguimos los pasos por defecto, y listo**
 
 
 
